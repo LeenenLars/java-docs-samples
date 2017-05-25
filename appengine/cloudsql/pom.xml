@@ -34,10 +34,10 @@
      project:region:instance for Cloud SQL 2nd Generation or
      project:instance        for Cloud SQL 1st Generation
 -->
-    <INSTANCE_CONNECTION_NAME></INSTANCE_CONNECTION_NAME>
+    <INSTANCE_CONNECTION_NAME>pitchmen-itprojekt-ss17:pitchmen</INSTANCE_CONNECTION_NAME>
     <user>root</user>
-    <password>myPassword</password>
-    <database>sqldemo</database>
+    <password>winter2017</password>
+    <database>pitchmen_itprojekt_schema</database>
 
 <!-- [START_EXCLUDE] -->
     <appengine.maven.plugin>1.0.0</appengine.maven.plugin>
